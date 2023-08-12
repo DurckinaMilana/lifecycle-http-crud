@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import './App.css'
-import Note from './interfaces/Node';
+import Note from './interfaces/Note';
 import Card from './components/Card/Card';
 import { GrUpdate } from './components/Icons';
 import Fetching from './API/Fething';
